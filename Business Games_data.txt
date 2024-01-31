@@ -1,0 +1,101 @@
+ID	Title	Platform	Genre	Purchase Price	Purchase Date
+18	Animal Crossing: New Horizons	PC	Simulation	41	25/02/2022
+32	Animal Crossing: New Horizons	PC	Simulation	41	27/05/2022
+71	Animal Crossing: New Horizons	PC	Simulation	41	21/05/2022
+10	Animal Crossing: New Horizons	Xbox	Simulation	57	03/09/2021
+23	Animal Crossing: New Horizons	Nintendo Switch	Simulation	67	19/07/2022
+41	Animal Crossing: New Horizons	Nintendo Switch	Simulation	67	15/02/2022
+45	Animal Crossing: New Horizons	Nintendo Switch	Simulation	67	14/05/2022
+96	Animal Crossing: New Horizons	Nintendo Switch	Simulation	67	23/10/2021
+75	Animal Crossing: New Horizons	PlayStation	Simulation	69	29/01/2022
+93	Animal Crossing: New Horizons	PlayStation	Simulation	69	21/01/2022
+91	Apex Legends	PC	Action	64	14/02/2022
+20	Apex Legends	Nintendo Switch	Action	68	14/09/2021
+46	Assassin's Creed Valhalla	Nintendo Switch	Action	55	21/12/2021
+64	Assassin's Creed Valhalla	Xbox	Action	74	25/05/2022
+26	Cyberpunk 2077	Xbox	RPG	45	04/02/2022
+38	Cyberpunk 2077	Xbox	RPG	45	25/04/2022
+49	Cyberpunk 2077	Xbox	RPG	45	03/11/2021
+69	Cyberpunk 2077	Xbox	RPG	45	30/12/2021
+39	Cyberpunk 2077	PC	RPG	46	31/08/2021
+48	Cyberpunk 2077	PC	RPG	46	20/06/2022
+7	Cyberpunk 2077	Nintendo Switch	RPG	51	27/04/2022
+8	Cyberpunk 2077	Nintendo Switch	RPG	51	01/02/2022
+53	Elden Ring	Nintendo Switch	RPG	47	02/05/2022
+90	Elden Ring	Nintendo Switch	RPG	47	03/05/2022
+92	Elden Ring	Nintendo Switch	RPG	47	19/05/2022
+95	Elden Ring	Nintendo Switch	RPG	47	07/10/2021
+70	Elden Ring	Xbox	RPG	56	13/07/2022
+11	FIFA 22	PlayStation	Sports	53	28/08/2022
+63	FIFA 22	PlayStation	Sports	53	26/03/2022
+74	FIFA 22	PlayStation	Sports	53	21/05/2022
+24	FIFA 22	PC	Sports	57	26/05/2022
+40	FIFA 22	PC	Sports	57	11/04/2022
+82	FIFA 22	PC	Sports	57	11/08/2022
+84	FIFA 22	PC	Sports	57	21/12/2021
+87	FIFA 22	PC	Sports	57	26/07/2022
+1	FIFA 22	Xbox	Sports	60	26/08/2022
+67	FIFA 22	Xbox	Sports	60	09/11/2021
+25	FIFA 22	Nintendo Switch	Sports	71	18/11/2021
+29	FIFA 22	Nintendo Switch	Sports	71	24/09/2021
+31	FIFA 22	Nintendo Switch	Sports	71	08/04/2022
+34	FIFA 22	Nintendo Switch	Sports	71	26/03/2022
+77	FIFA 22	Nintendo Switch	Sports	71	26/09/2021
+99	FIFA 22	Nintendo Switch	Sports	71	11/09/2021
+100	FIFA 22	Nintendo Switch	Sports	71	13/06/2022
+12	Fortnite	PC	Action	62	20/09/2021
+89	Genshin Impact	PC	RPG	46	14/01/2022
+54	Genshin Impact	PlayStation	RPG	59	15/01/2022
+13	Genshin Impact	Xbox	RPG	64	01/03/2022
+19	Genshin Impact	Xbox	RPG	64	08/03/2022
+27	Genshin Impact	Xbox	RPG	64	25/05/2022
+35	Hades	Xbox	Action	61	09/04/2022
+47	Hades	PlayStation	Action	66	20/12/2021
+51	League of Legends	PC	Action	54	13/12/2021
+15	Minecraft	Xbox	Simulation	52	22/01/2022
+17	Minecraft	Xbox	Simulation	52	30/05/2022
+30	Minecraft	Xbox	Simulation	52	31/08/2021
+80	Minecraft	Xbox	Simulation	52	28/08/2022
+88	Minecraft	Xbox	Simulation	52	14/09/2021
+97	Minecraft	Xbox	Simulation	52	05/03/2022
+9	Minecraft	PlayStation	Simulation	79	29/07/2022
+42	Minecraft	PlayStation	Simulation	79	30/04/2022
+44	Minecraft	PlayStation	Simulation	79	12/10/2021
+5	Minecraft	Nintendo Switch	Simulation	80	02/06/2022
+59	Minecraft	PC	Simulation	80	02/11/2021
+66	Minecraft	PC	Simulation	80	03/07/2022
+72	Minecraft	PC	Simulation	80	08/04/2022
+94	Minecraft	Nintendo Switch	Simulation	80	10/11/2021
+3	Overwatch	Nintendo Switch	Action	76	02/12/2021
+55	Red Dead Redemption 2	PlayStation	Action	43	15/03/2022
+6	Red Dead Redemption 2	PC	Action	63	02/09/2021
+68	Red Dead Redemption 2	Nintendo Switch	Action	67	17/09/2021
+43	Resident Evil Village	Xbox	Action	47	16/12/2021
+62	Super Mario Odyssey	PC	Adventure	44	27/01/2022
+76	Super Mario Odyssey	PC	Adventure	44	07/06/2022
+65	Super Mario Odyssey	Xbox	Adventure	48	01/05/2022
+4	Super Mario Odyssey	Nintendo Switch	Adventure	52	10/11/2021
+81	Super Mario Odyssey	Nintendo Switch	Adventure	52	03/11/2021
+98	Super Mario Odyssey	Nintendo Switch	Adventure	52	17/11/2021
+21	Super Mario Odyssey	PlayStation	Adventure	57	28/03/2022
+33	Super Mario Odyssey	PlayStation	Adventure	57	16/09/2021
+58	The Legend of Zelda: Breath of the Wild	Xbox	Adventure	53	02/02/2022
+83	The Legend of Zelda: Breath of the Wild	Xbox	Adventure	53	05/04/2022
+36	The Legend of Zelda: Breath of the Wild	Nintendo Switch	Adventure	59	21/10/2021
+61	The Legend of Zelda: Breath of the Wild	Nintendo Switch	Adventure	59	08/07/2022
+73	The Legend of Zelda: Breath of the Wild	Nintendo Switch	Adventure	59	13/11/2021
+78	The Legend of Zelda: Breath of the Wild	Nintendo Switch	Adventure	59	13/04/2022
+79	The Legend of Zelda: Breath of the Wild	Nintendo Switch	Adventure	59	23/03/2022
+86	The Legend of Zelda: Breath of the Wild	Nintendo Switch	Adventure	59	05/11/2021
+14	The Legend of Zelda: Breath of the Wild	PC	Adventure	63	27/06/2022
+50	The Legend of Zelda: Breath of the Wild	PC	Adventure	63	24/09/2021
+85	The Legend of Zelda: Breath of the Wild	PC	Adventure	63	04/04/2022
+2	The Legend of Zelda: Breath of the Wild	PlayStation	Adventure	72	17/04/2022
+16	The Legend of Zelda: Breath of the Wild	PlayStation	Adventure	72	26/03/2022
+37	The Legend of Zelda: Breath of the Wild	PlayStation	Adventure	72	11/09/2021
+57	The Legend of Zelda: Breath of the Wild	PlayStation	Adventure	72	21/06/2022
+28	The Witcher 3: Wild Hunt	PlayStation	RPG	54	25/07/2022
+60	The Witcher 3: Wild Hunt	PlayStation	RPG	54	30/08/2022
+22	The Witcher 3: Wild Hunt	Xbox	RPG	59	12/05/2022
+52	The Witcher 3: Wild Hunt	Nintendo Switch	RPG	68	28/10/2021
+56	Valorant	PlayStation	Action	60	27/08/2022
